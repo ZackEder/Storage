@@ -1,4 +1,4 @@
-# Input reader (alpha 0.011)
+# Input reader (alpha 0.011) WOW
 
 import tkinter
 from tkinter import font
