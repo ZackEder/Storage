@@ -10,4 +10,10 @@
         "values" : 30000,
         "units" : 13
     }],
+
+    "Watermelon" : [{
+        "id" : 2,
+        "values" : 80000,
+        "units" : 20
+    }]
 }
