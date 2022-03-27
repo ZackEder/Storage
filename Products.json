@@ -9,14 +9,5 @@
         "id" : 1,
         "values" : 30000,
         "units" : 13
-<<<<<<< HEAD
-=======
-    }],
-
-    "Watermelon" : [{
-        "id" : 2,
-        "values" : 80000,
-        "units" : 20
->>>>>>> cc219ce8855a47fb59ab3837e37a37cd273f9e1c
     }]
 }
